@@ -1,0 +1,8 @@
+C:\Users\delso\source\repos\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.exe.config
+C:\Users\delso\source\repos\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.exe
+C:\Users\delso\source\repos\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.pdb
+C:\Users\delso\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.csproj.AssemblyReference.cache
+C:\Users\delso\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\delso\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\delso\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.exe
+C:\Users\delso\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.pdb
